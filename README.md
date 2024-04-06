@@ -1,2 +1,2 @@
-# Python-for-Finance-with-yfinance
-Python for Finance with yfinance
+# Python-for-Finance-with-finance
+Python for Finance with finance
